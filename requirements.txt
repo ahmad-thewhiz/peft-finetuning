@@ -1,0 +1,11 @@
+bitsandbytes
+transformers
+peft
+accelerate
+datasets 
+scipy 
+ipywidgets
+torch 
+torchvision
+setuptools==65.5.1
+ptxas
